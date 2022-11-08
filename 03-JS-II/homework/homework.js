@@ -1,11 +1,12 @@
 // No cambies los nombres de las funciones.
 
-function obtenerMayor(x, y) {
+function obtenerMayor(x, y) 'Hola'
+
   // "x" e "y" son números enteros (int).
   // Devuelve el número más grande
   // Si son iguales, devuelve cualquiera de los dos
-  // Tu código:
-}
+  // Tu código: 
+
 
 function mayoriaDeEdad(edad) {
   //Determinar si la persona según su edad puede ingresar a un evento.
@@ -42,8 +43,8 @@ function colors(color) {
 
 function esDiezOCinco(numero) {
   // Devuelve "true" si "numero" es 10 o 5
+  // Tu código: 
   // De lo contrario, devuelve "false"
-  // Tu código:
 }
 
 function estaEnRango(numero) {
